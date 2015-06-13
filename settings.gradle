@@ -1,0 +1,4 @@
+rootProject.name = 'vectboard'
+
+include 'vectboard-lib'
+

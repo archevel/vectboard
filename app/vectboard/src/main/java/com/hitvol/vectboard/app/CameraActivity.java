@@ -1,6 +1,6 @@
-package com.hitvol.vectboard;
+package com.hitvol.vectboard.app;
 
-import com.hitvol.vectboard.util.SystemUiHider;
+import com.hitvol.vectboard.app.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

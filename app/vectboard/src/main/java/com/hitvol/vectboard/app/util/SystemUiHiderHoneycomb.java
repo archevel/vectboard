@@ -1,4 +1,4 @@
-package com.hitvol.vectboard.util;
+package com.hitvol.vectboard.app.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

@@ -1,4 +1,4 @@
-package com.hitvol.vectboard;
+package com.hitvol.boofcv;
 
 import boofcv.core.image.border.ImageBorderValue;
 import boofcv.core.image.border.ImageBorder_S32;
